@@ -1,1 +1,2 @@
-console.log("first");
+require("dotenv").config();
+console.log(process.env.URL);

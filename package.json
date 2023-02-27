@@ -17,5 +17,8 @@
   "bugs": {
     "url": "https://github.com/godidev/test-workflows/issues"
   },
-  "homepage": "https://github.com/godidev/test-workflows#readme"
+  "homepage": "https://github.com/godidev/test-workflows#readme",
+  "dependencies": {
+    "dotenv": "^16.0.3"
+  }
 }
